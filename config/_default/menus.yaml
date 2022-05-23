@@ -8,7 +8,7 @@ main:
     url: 'https://community-open-science-lab.netlify.app/'
     weight: 10
   - name: Publicaciones
-    url: '#posts'
+    url: '#posts'  
     weight: 20
   - name: Prensa
     url: '#projects'

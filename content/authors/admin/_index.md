@@ -1,27 +1,10 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: 
   matter.
-education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+
 email: ""
 highlight_name: true
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+
 social:
 - icon: envelope
   icon_pack: fas
@@ -39,11 +22,31 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Community Open Science Lab
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+<h2> ¿Quiénes somos? </h2>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+<br>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+Somos una comunidad sin fines de lucro dirigida a editores de revistas científicas de acceso abierto investigadores y profesionales de investigación dedicada a desarrollar recursos y medios en fin de fomentar la producción científica y la promoción del crecimiento de revistas Open Access.
+<br>
+
+<h2> ¿Qué ofrecemos? </h2>
+
+<br>
+Brindamos un espacio donde personas afines a la edición gestión y promoción de revistas Open Access además de investigación y publicación de artículos puedan encontrarse para un intercambio de conocimientos.
+Una de nuestras misiones es reunir información sobre las plataformas relevantes que ya existen y divulgar la información en beneficio de los editores y personas afines a la investigación
+Ofrecemos cursos de cortos aplicados a la gestión editorial y la producción científica se realizan de forma remota dedicado al público interesado del área 
+Todos material y espacio de socialización de manera que todo el material encontrado en este sitio web puede ser usado y reutilizado con la única solicitud de referencias a esta página como fuente.
+Otorgamos un ambiente de intercambio entre maestro aprendiz en búsqueda de complementar e intercambiar conocimientos en busca de cumplir objetivos de ambos.
+
+<br>
+
+<h2> ¿Qué no ofrecemos? </h2>
+
+<br>
+
+Contenidos teóricos. Nuestros cursos son 100% teórico prácticos.
+
+
