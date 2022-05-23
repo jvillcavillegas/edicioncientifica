@@ -11,10 +11,11 @@ baseURL: 'https://community-editor-global.netlify.app/' # Website URL
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: en
+defaultContentLanguage: "en" 
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
+
 
 ############################
 ## MODULES
