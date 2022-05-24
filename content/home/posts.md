@@ -9,8 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
+title: Publicaciones
+subtitle: Contenido creado por el equipo de la comunidad 
 
 content:
   # Filter on criteria

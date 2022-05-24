@@ -9,25 +9,30 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Caracteristicas del proyecto
 subtitle:
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+
 feature:
-  - description: 90%
-    icon: r-project
+  - description: En base a nuestro codigo de conducta
+    icon: discord
     icon_pack: fab
-    name: R
-  - description: 100%
-    icon: chart-line
+    name: Creamos Comunidad
+  - description: Creemos en la educacion sincronica y asincronica
+    icon: book
     icon_pack: fas
-    name: Statistics
-  - description: 10%
-    icon: camera-retro
+    name: Educacion en linea 
+  - description: Creemos que compartir aprendizaje hace la diferencia
+    icon: share
     icon_pack: fas
-    name: Photography
+    name: Redes / Networking
+
+  
+  
+    
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
