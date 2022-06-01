@@ -1,30 +1,26 @@
 ---
 authors:
-- admin
-- 吳恩達
+- Jose Luis Villca Villegas
+- 
 categories:
-- Demo
-- 教程
-date: "2020-12-13T00:00:00Z"
+- OJS, Workflow, Editorial Content
+- 
+date: "2022-05-26T00:10:00Z"
 draft: false
 featured: false
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Image credit: [**Por The carpentries**]()'
   focal_point: ""
   placement: 2
   preview_only: false
-lastmod: "2020-12-13T00:00:00Z"
+lastmod: "2022-05-26T00:21:00Z"
 projects: []
-subtitle: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
-summary: "Welcome \U0001F44B We know that first impressions are important, so we've
-  populated your new site with some initial content to help you get familiar with
-  everything in no time."
+subtitle: "Bienvenido a la primera lectura del proyecto, creemos en que el aprendizaje compartido es la clave de todo"
+summary: "Donde la comunidad abierta y horizontal, donde todos se respeten y compartan los ideales de aprendizaje basado en la practica"
 tags:
 - Academic
 - 开源
-title: Welcome to Wowchemy, the website builder for Hugo
+title: Construyendo comunidades en practicas editoriales con altos estandares 
 ---
 
 ## Overview

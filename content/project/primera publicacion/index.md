@@ -4,11 +4,11 @@ external_link: ""
 image:
   caption: GETTY IMAGES/ISTOCKPHOTO THINKSTOCK
   focal_point: Smart
-
-summary: Iniciativa creada con el fin de reunir a editores profesionales y estudiantes de latinoamerica
+  
+summary: Practicas en Open Journal Systems
 tags:
 - Deep Learning
-title: Construyendo comunidad en latinoamerica
+title: Construyendo comunidades
 url_code: ""
 url_pdf: ""
 url_slides: ""
