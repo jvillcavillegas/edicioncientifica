@@ -8,7 +8,7 @@ image:
 summary: Aprendizaje de OJS
 tags:
 - Deep Learning
-title: chiki vs toneri 
+title: chiki vs toneri  xd 
 url_code: ""
 url_pdf: ""
 url_slides: ""
