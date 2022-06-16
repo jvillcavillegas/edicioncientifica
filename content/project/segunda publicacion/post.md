@@ -8,7 +8,7 @@ image:
 summary: Aprendizaje de OJS
 tags:
 - Deep Learning
-title: toneri  xd 
+title: toneri  xd xp 
 url_code: ""
 url_pdf: ""
 url_slides: ""
