@@ -8,7 +8,7 @@ image:
 summary: Practicas en Open Journal Systems
 tags:
 - Deep Learning
-title: Construyendo comunidades
+title: Construyendo comunidades cientificas
 url_code: ""
 url_pdf: ""
 url_slides: ""
