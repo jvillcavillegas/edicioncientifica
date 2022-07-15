@@ -5,7 +5,7 @@ image:
   caption: 
   focal_point: Smart
 
-summary: Aprendizaje de OJS
+summary: Aprendizaje de OJS (pkp)
 tags:
 - Deep Learning
 title: toneri  xd xp 
