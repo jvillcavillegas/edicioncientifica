@@ -19,7 +19,7 @@ subtitle: "Bienvenido a la primera lectura del proyecto, creemos en que el apren
 summary: "Donde la comunidad abierta y horizontal, donde todos se respeten y compartan los ideales de aprendizaje basado en la practica"
 tags:
 - Academic
-- 开源
+- OJS
 title: Construyendo comunidades en practicas editoriales con altos estandares 
 ---
 
