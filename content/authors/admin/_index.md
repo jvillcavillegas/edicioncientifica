@@ -77,6 +77,6 @@ teórico-prácticos.
 
 Te invitamos a saber mas sobre nuestra propuesta revisando nuestras
 normas de comunidad[(click
-aqui)](https://conectorial.netlify.app/guiasparticipacion/normasdelacomunidad.Rmd),
+aq](https://conectorial.netlify.app/guiasparticipacion/normasdelacomunidad.Rmd)[u](https://conectorial.netlify.app/guiasparticipacion/normasdelacomunidad)[i)](https://conectorial.netlify.app/guiasparticipacion/normasdelacomunidad.Rmd),
 como nuestras guías de participación como colaborador (click aqui) o
 estudiante (click aqui).
