@@ -18,7 +18,7 @@ social:
   link: https://github.com/conectorial
 - icon: linkedin
   icon_pack: fab
-  link: 
+  link: https://www.linkedin.com/in/conectorial-430526245/
   
 - icon: instagram
   icon_pack: fab
