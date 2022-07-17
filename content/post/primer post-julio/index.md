@@ -1,7 +1,7 @@
 ---
 authors:
-- Jose Luis Villca Villegas
-- 
+- Jose Luis Villca Villegas 
+- Danae Carelis 
 categories:
 - OJS, Workflow, Editorial Content
 - 
